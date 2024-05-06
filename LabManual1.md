@@ -1,5 +1,4 @@
-# Sem2_OS_Lab
-# Lab Manual
+# Lab Manual 1
 
 These are the following commands:
 1. `ls`: List all files and directories in the current directory.<br>
