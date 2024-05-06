@@ -9,3 +9,9 @@ Question 4 - Write a shell script to check to see if the file “file_path” ex
 <img width="294" alt="Screenshot 2024-05-06 at 5 22 02 PM" src="https://github.com/sahils1201/Sem2_OS_Lab/assets/142775941/a7049b61-f030-40e8-b02d-ab3fb99a35b6"><br>
 Question 5 - Write a shell script that displays “man”,”bear”,”pig”,”dog”,”cat”,and “sheep” on the screen with each appearing on a separate line. Try to do this in as few lines as possible.<br>
 <img width="294" alt="Screenshot 2024-05-06 at 5 27 23 PM" src="https://github.com/sahils1201/Sem2_OS_Lab/assets/142775941/a0d868e9-551a-4d55-835d-dd5eb69ddbad"><br>
+Question 6 - write a shell script that prompts the user for a name of a file or directory and reports if it is a regular file, a directory, or another type of file. Also perform an ls command against the file or directory with the long listing option.<br>
+<img width="597" alt="Screenshot 2024-05-06 at 6 05 39 PM" src="https://github.com/sahils1201/Sem2_OS_Lab/assets/142775941/b6a486f5-98a5-438a-ac29-c6d03adf7f78"><br>
+Question 7 - Modify the previous script to that it accepts the file or directory name as an argument instead of prompting the user to enter it.<br>
+<img width="597" alt="Screenshot 2024-05-06 at 6 18 57 PM" src="https://github.com/sahils1201/Sem2_OS_Lab/assets/142775941/485acfd6-bb24-43ae-8ed1-d2980619e560"><br>
+Question 8 - Modify the previous script to accept an unlimited number of files and directories as arguments.<br>
+<img width="597" alt="Screenshot 2024-05-06 at 6 22 34 PM" src="https://github.com/sahils1201/Sem2_OS_Lab/assets/142775941/f49f8597-45c0-4927-9477-ec0353b8be75"><br>
